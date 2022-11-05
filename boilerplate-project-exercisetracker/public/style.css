@@ -57,3 +57,14 @@ code {
   background-color: #FFFEC4;
   padding: 2px;
 }
+
+footer{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-top: 40px;
+}
+
+a{
+  color: rgb(0, 195, 255);
+}
